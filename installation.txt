@@ -1,0 +1,4 @@
+1. git init
+2. git remote add origin https://github.com/adel0505/test.git
+3.  git commit -m "first commit"
+4.  git push -u origin master
